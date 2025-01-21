@@ -13,7 +13,7 @@ Atualmente vivo em **Jaboatão dos Guararapes, Pernambuco, Brasil.**
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 👨‍💻 Linguages onde eu programo e minha experiência
+## 👨‍💻 Linguagens onde eu programo e minha experiência
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) **Experiência: Média**
 
@@ -28,5 +28,3 @@ Atualmente vivo em **Jaboatão dos Guararapes, Pernambuco, Brasil.**
 ## 📞 Contato:
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **vitorluisgomesvieira0@gmail.com**
-
-![Telefone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) **+55 81 98435-6067** 
